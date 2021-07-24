@@ -1,0 +1,38 @@
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.nav-menu {
+    background-color: gray;
+    border: 10px solid gray;
+    border-radius: 5px;
+}
+
+.title {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.navbutton {
+    position: relative;
+    margin-top: 3px;
+    text-decoration: none;
+    margin-right: 5px;
+    float: right;
+}
+
+.socials_small {
+    width: 15px;
+    height: 15px;
+    text-decoration: none;
+}
+
+.link {
+    color: lightblue;
+    text-decoration: none;
+}

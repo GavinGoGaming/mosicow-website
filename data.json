@@ -1,0 +1,11 @@
+{
+  "list": [
+    "sr_admin1_gmc",
+    "sr_admin2_gms",
+    "sr_admin3_bed",
+    "sr_admin4_title",
+    "sr_admin5_sudo",
+    "sr_admin6_gr"
+  ],
+  "action":"sr_admin1"
+}
